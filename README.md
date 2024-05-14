@@ -4,7 +4,7 @@ This repository contains code for implementing "Uncertainty Quantification in Ne
 
 ## **Contents:**
 
-- **PainPredictionInterval.ipynb** : This is the main code to develop prediction intervals for pain intensity estimation. Prediction intervals provide a range of values where the true pain intensity is likely to fall with a certain level of confidence. It uses gradient descent algorithm.
+- [PainPredictionInterval.ipynb](https://github.com/burcuozek/predictioninterval/blob/main/PainPredictionInterval.ipynb): This is the main code to develop prediction intervals for pain intensity estimation. Prediction intervals provide a range of values where the true pain intensity is likely to fall with a certain level of confidence. It uses gradient descent algorithm.
 
 - **Plots_GA_vs_GD_vs_Bootstrap.ipynb**: This notebook contains the code to compare different methods used in pain intensity estimation, including gradient descent, genetic algorithm, and bootstrap. Comparing these methods helps in understanding their strengths and limitations in the context of pain intensity estimation.
 
@@ -14,5 +14,5 @@ This repository contains code for implementing "Uncertainty Quantification in Ne
 
 - **Plot_Grouped_Bar_Chart.ipynb**: This notebook contains the code for generating grouped bar charts. These charts are helpful in visualizing and comparing different aspects of the data, such as pain intensity across different groups or categories.
 
-You can access the paper through the following [link](https://arxiv.org/abs/2311.08569):
+You can access the paper through the [link](https://arxiv.org/abs/2311.08569).
 
