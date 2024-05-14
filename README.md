@@ -14,3 +14,6 @@ This repository contains code for implementing "Uncertainty Quantification in Ne
 
 - **Plot_Grouped_Bar_Chart.ipynb**: This notebook contains the code for generating grouped bar charts. These charts are helpful in visualizing and comparing different aspects of the data, such as pain intensity across different groups or categories.
 
+You can access the paper through the following link: https://arxiv.org/abs/2311.08569
+
+
